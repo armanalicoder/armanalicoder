@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **infoarmanali73@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yYAqPiX6IPhKy9gwoVIvjafhQzJPMa9Q/view?usp=sharing](https://drive.google.com/file/d/1yYAqPiX6IPhKy9gwoVIvjafhQzJPMa9Q/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yYAqbbPiX6IPhKy9gwoVIvjafhQzJPMa9Q/view?usp=sharing](https://drive.google.com/file/d/1yYAqPiX6IPhKy9gwoVIvjafhQzJPMa9Q/view?usp=sharing)
 
 - ⚡ Fun fact **I believe in code that not only works but also inspires!**
 
