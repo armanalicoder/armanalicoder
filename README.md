@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armanalicoder&label=Profile%20views&color=0e75b6&style=flat" alt="armanalicoder" /> </p>
 
-- 🔭 I've Done our latest Project [Project Lead – EduShine Classes](https://github.com/armanalicoder/Edushine-Classes.git)
+- 🔭 I've Done our latest Project [Project Lead – EduShine Classes](https://edushineclasses.in/)
 
 - 🌱 I’m currently learning **ReactJS, Tailwind CSS, Advanced MongoDB techniques.**
 
